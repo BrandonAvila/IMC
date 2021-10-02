@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 /*Nombre de la escuela: Universidad Tecnologica Metropolitana
 Asignatura: Aplicaciones Web Orientadas a Objetos
 Nombre del Maestro: Chuc Uc Joel Ivan
-Nombre de la actividad: Palindromos
+Nombre de la actividad: IMC
 Nombre del alumno: Avila Ramayao Brandon Jefte
 Cuatrimestre: 4
 Grupo: B
